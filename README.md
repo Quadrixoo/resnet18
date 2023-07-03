@@ -1,6 +1,7 @@
 # ResNet18
 
 CIFER-10:
+
 The code is ready to test and play with. The evaluation is going to be in growing intervals. so if there is a need to see it in more detail change the area starting at line 150.
 Also Take a look if you need the checkpoints safed as well as the results in a seperate text file.
 
